@@ -24,7 +24,7 @@ A modern, user-friendly web tool for generating activation keys and customizing 
 
 ## Compatibility
 
-- Works with **MobaXterm versions 20.X, 25.1, and 25.2**
+- Works with **MobaXterm versions 20.X, 25.1, 25.2,& 25.3**
 - Supports both portable and installer editions
 
 ## How to Use
